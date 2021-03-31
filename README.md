@@ -1,6 +1,6 @@
 # GDSC
 
-![alt text](https://github.com/nabaratanpatra//blob/main/logo.png?raw=true)
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/logo.png?raw=true)
 
 # TO SEE THE WORKING OR SCOCE CODE OF THIS APPLICATION YOU HAVE SELECT IT TO NEXT ROUND  
 
@@ -55,12 +55,12 @@ Google Cloud
 
 # SNAPSHOT  
 
-![alt text](https://github.com/nabaratanpatra//blob/main/1.png?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/2.jpg?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/3.png?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/4.jpg?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/5.jpg?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/6.jpg?raw=true)  
-![alt text](https://github.com/nabaratanpatra//blob/main/7.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/1.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/2.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/3.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/4.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/5.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/6.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra/GDSC-DIVINE/blob/main/7.jpg?raw=true)  
 
 
