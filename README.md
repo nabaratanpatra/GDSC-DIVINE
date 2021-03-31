@@ -1,13 +1,13 @@
 # GDSC
 
-![alt text](https://github.com/nabaratanpatra/<imagename>.jpeg?raw=true)
+![alt text](https://github.com/nabaratanpatra//blob/main/logo.png?raw=true)
 
 # TO SEE THE WORKING OR SCOCE CODE OF THIS APPLICATION YOU HAVE SELECT IT TO NEXT ROUND  
 
 
 # YOUTUBE LINK  
 
-https://www.youtube.com/watch?v=
+https://youtu.be/yAr2yvnnUlQ
 
 
 # 🔨Languages and Tools🔨
@@ -55,6 +55,12 @@ Google Cloud
 
 # SNAPSHOT  
 
-![alt text](https://github.com/nabaratanpatra/<image>?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/1.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/2.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/3.png?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/4.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/5.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/6.jpg?raw=true)  
+![alt text](https://github.com/nabaratanpatra//blob/main/7.jpg?raw=true)  
 
 
